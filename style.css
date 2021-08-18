@@ -11,8 +11,10 @@
     background: url("./BS2108WallpaperIHC.jpg") no-repeat;
     width: 100vw;
     height: 100vh;
+    background-position: center;
     background-size: cover;
-    object-fit: contain;
+    object-fit: cover;
+    object-position: center;
 }
 
 .background-img .wrapper {
